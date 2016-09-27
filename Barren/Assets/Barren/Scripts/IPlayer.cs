@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public interface IPlayer
+public interface Player
 {
 	/// <summary>
 	/// 返回你当前武器的攻击力

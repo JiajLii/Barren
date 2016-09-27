@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public interface IAnimalAI
+public interface AnimalAI
 {
 	/// <summary>
 	/// 巡逻的方法

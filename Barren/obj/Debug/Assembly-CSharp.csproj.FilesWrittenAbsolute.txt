@@ -1,0 +1,17 @@
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/UnityEngine.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/UnityEditor.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Mono.Cecil.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaoce/Desktop/Barren/Barren/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhaoce/Desktop/Barren/Barren/obj/Debug/Assembly-CSharp.dll
+/Users/zhaoce/Desktop/Barren/Barren/obj/Debug/Assembly-CSharp.dll.mdb

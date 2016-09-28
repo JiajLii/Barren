@@ -1,22 +1,28 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public interface IAnimalAI
+public interface IAnimal
 {
+	/// <summary>
+	/// 动物的血量
+	/// </summary>
+	/// <value>The hp.</value>
+	float hp{ get; set; }
+
 	/// <summary>
 	/// 巡逻的方法
 	/// </summary>
 	void Patrol ();
 
 	/// <summary>
-	/// 追击的方法
+	/// 动物碰见人之后选择的行为
 	/// </summary>
-	void Pursue ();
+	void Behaviour ();
 
 	/// <summary>
-	/// 攻击策略的选择
+	/// 掉血方法
 	/// </summary>
-	void Attack ();
+	void UnderAttack (float damage);
 
 	/// <summary>
 	/// 死亡方法
